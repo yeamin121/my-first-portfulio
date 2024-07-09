@@ -1,0 +1,125 @@
+ .open {
+     font-family: "Work Sans", sans-serif;
+     font-optical-sizing: auto;
+     font-style: normal;
+ }
+
+ /* Navbar style */
+ nav {
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     margin: 50px 200px;
+ }
+ nav .subtitle {
+     font-weight: 800;
+ }
+ nav .change {
+     font-size: 45px;
+     font-weight: 800;
+     letter-spacing: 0%;
+     text-align: left;
+     font-weight: 800;
+     font-size: 45px;
+ }
+ .word-colour {
+     color: #FD6E0A;
+ }
+ nav ul li {
+     list-style: none;
+     margin-right: 50px;
+
+ }
+ nav ul li a {
+     text-decoration: none;
+     font-size: 20px;
+     font-weight: 400;
+ }
+ .dark1 {
+     color: rgb(71, 71, 71);
+ }
+ nav ul {
+     display: flex;
+     align-items: center;
+ }
+ .dark2 {
+     color: rgb(71, 71, 71);
+ }
+ .btnsection {
+     background-color: #FD6E0A;
+     font-size: 20px;
+     font-weight: 700;
+     padding: 18px 35px 19px 36px;
+     color: #f7f7f7;
+     border-radius: 10px;
+     border: none;
+ }
+ .meaning-1 {
+     width: 255px;
+     height: 85px;
+     color: rgb(71, 71, 71);
+ }
+ .crazy-lopenda {
+     font-size: 75px;
+     font-weight: bold;
+ }
+ .imag-cc {
+     width: 980px;
+ }
+ .banner-default {
+     display: flex;
+     justify-content: space-between;
+     margin: 0px 0px 0px 225px;
+ }
+ .one-time {
+     width: 585px;
+     height: 262px;
+ }
+ .full-x {
+     background-image: url('../images/developer.png'), url('../images/header_bg.png');
+     background-repeat: no-repeat;
+     background-position: top left, bottom right;
+ }
+ .main-content {
+     font-size: 35px;
+     padding: 130px 150px;
+     margin-top: 130px;
+     text-align: center;
+     font-weight: 700;
+     color: rgb(24, 24, 24);
+     border-radius: 10px;
+ }
+ .description {
+     font-size: 18px;
+     font-weight: 400;
+     line-height: 30px;
+     color: rgb(117, 117, 117);
+
+ }
+ .secound-bag {
+     background-color: rgb(255, 248, 243);
+ }
+ main {
+     max-width: 1140px;
+     margin: 0% auto;
+ }
+ .about-xb {
+     justify-content: space-around;
+     display: flex;
+     gap right: 30px;
+     bottom: 60px;
+ }
+ .t-1 {
+     text-align: center;
+     font-size: 30px;
+    font-weight: 400;
+    color: rgb(117, 117, 117);
+ }
+ .what-2 {
+     text-align: center;
+     font-size: 45px;
+     font-weight: 700
+     
+
+    
+ }
